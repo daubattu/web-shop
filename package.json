@@ -1,0 +1,23 @@
+{
+  "name": "web-shop",
+  "version": "1.0.0",
+  "description": "NHK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daubattu/web-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daubattu/web-shop/issues"
+  },
+  "homepage": "https://github.com/daubattu/web-shop#readme",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
